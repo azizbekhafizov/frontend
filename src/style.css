@@ -1,0 +1,10 @@
+* {
+  font-family: Nunito;
+}
+
+#sidebar {
+  right: -100%;
+}
+#open {
+  right: 0;
+}

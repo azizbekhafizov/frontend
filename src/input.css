@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .auth-btns {
+    @apply p-2 px-6 bg-green text-white border border-green rounded-lg hover:bg-white hover:text-green transition-all duration-200;
+  }
+}
